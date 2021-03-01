@@ -7,6 +7,7 @@
     "scraperParams": {
         "titleName": "Gillette Stadium"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02035",
     "state": "MA",
@@ -25,6 +26,7 @@
     "scraperParams": {
       "curativeSiteId": "24182"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01129",
     "state": "MA",
@@ -78,6 +80,7 @@
     "scraperParams": {
         "titleName": "Fenway Park"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02215",
     "state": "MA",
@@ -96,6 +99,7 @@
     "scraperParams": {
         "titleName": "Reggie Lewis State Track Athletic Ctr"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02120",
     "state": "MA",
@@ -114,6 +118,7 @@
     "scraperParams": {
         "curativeSiteId": "24181"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01923",
     "state": "MA",
@@ -132,6 +137,7 @@
     "scraperParams": {
         "titleName": "W.E.B. Dubois Regional Middle School"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01230",
     "state": "MA",
@@ -150,6 +156,7 @@
     "scraperParams": {
         "titleName": "Lowell Senior Center"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01854",
     "state": "MA",
@@ -168,6 +175,7 @@
     "scraperParams": {
         "titleName": "Marshfield Fairgrounds"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02050",
     "state": "MA",
@@ -186,6 +194,7 @@
     "scraperParams": {
         "titleName": "Needham Public Health - Center at the Heights"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02494",
     "state": "MA",
@@ -204,6 +213,7 @@
     "scraperParams": {
         "titleName": "St. Elizabeth of Hungary Parish"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01247",
     "state": "MA",
@@ -222,6 +232,7 @@
     "scraperParams": {
         "titleName": "Orleans DPW"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02653",
     "state": "MA",
@@ -240,6 +251,7 @@
     "scraperParams": {
         "titleName": "Worcester Senior Center"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01604",
     "state": "MA",
@@ -258,6 +270,7 @@
     "scraperParams": {
         "titleName": "Saint Vincent Hospital Vaccine Collaborative @ Worcester State University - Wellness Center"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01602",
     "state": "MA",
@@ -276,6 +289,7 @@
     "scraperParams": {
         "titleName": "Greenfield Senior Center"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01301",
     "state": "MA",
@@ -294,6 +308,7 @@
     "scraperParams": {
         "titleName": "Paxton Public Safety Complex"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01612",
     "state": "MA",
@@ -312,6 +327,7 @@
     "scraperParams": {
         "titleName": "Memorial Hall"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02176",
     "state": "MA",
@@ -330,6 +346,7 @@
     "scraperParams": {
         "titleName": "Tree House Deerfield"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01373",
     "state": "MA",
@@ -348,6 +365,7 @@
     "scraperParams": {
         "titleName": "Salemwood School"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02148",
     "state": "MA",
@@ -366,6 +384,7 @@
     "scraperParams": {
         "titleName": "Converse Middle School"
     },
+    "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01069",
     "state": "MA",
