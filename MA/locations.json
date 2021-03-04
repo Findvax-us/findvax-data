@@ -3,10 +3,8 @@
     "uuid": "20f0ede4-3dd3-4ba7-81c6-a0faae61b06a",
     "name": "Gillette Stadium",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=gillette&search_radius=All",
-    "scraperParams": {
-        "titleName": "Gillette Stadium"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/gillette-stadium/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02035",
@@ -15,7 +13,7 @@
     "address": "1 Patriot Place, Parking Lot 22, Foxborough, MA 02035",
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=gillette&search_radius=All",
     "siteType": "indoor",
-    "siteInstructions": "",
+    "siteInstructions": "Book an appointment in advance, online. When booking, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the CIC Health call center to cancel an appointment: 888-623-3830.",
     "accessibility": "The entire path of travel from arrival/drop-off (W4 entrance) to exit (W3) is fully accessible via walkways and elevators. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break. There is handicap parking onsite and the entire lot is accessible."
   },
   {
@@ -76,10 +74,8 @@
     "uuid": "c62ce219-a538-4d34-982c-0a8fddfb573f",
     "name": "Fenway Park",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=fenway&search_radius=All",
-    "scraperParams": {
-        "titleName": "Fenway Park"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/fenway-park/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02215",
@@ -88,17 +84,15 @@
     "address": "4 Jersey St, Boston, MA 02215",
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=fenway&search_radius=All",
     "siteType": "indoor",
-    "siteInstructions": "",
+    "siteInstructions": "Book an appointment in advance, online. When booking, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the CIC Health call center to cancel an appointment: 888-623-3830.",
     "accessibility": "The entire path of travel from arrival/drop-off (Gate A on Jersey Street) to exit (Gate E on Lansdowne Street) is fully accessible via ramps and walkways. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break."
   },
   {
     "uuid": "5e674bef-542d-497b-bb8e-06a5534b3e81",
     "name": "Reggie Lewis Center (Roxbury Community College)",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=reggie+lewis&search_radius=All",
-    "scraperParams": {
-        "titleName": "Reggie Lewis State Track Athletic Ctr"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/reggie-lewis-state-track-athletic-ctr/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02120",
@@ -133,10 +127,8 @@
     "uuid": "0915636c-e400-4438-bf86-19456be828de",
     "name": "W.E.B. Dubois Regional Middle School",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=dubois&search_radius=All",
-    "scraperParams": {
-        "titleName": "W.E.B. Dubois Regional Middle School"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/web-dubois-regional-middle-school/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01230",
@@ -149,37 +141,16 @@
     "accessibility": ""
   },
   {
-    "uuid": "d61917d8-520a-490a-aba0-64a49b4e356d",
-    "name": "Lowell Senior Center",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=lowell+senior+center&search_radius=All",
-    "scraperParams": {
-        "titleName": "Lowell Senior Center"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "01854",
-    "state": "MA",
-    "serves": "Eligible populations in Barnstable County",
-    "address": "276 Broadway St, Lowell, MA 01854",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=lowell+senior+center&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "Follow signage",
-    "accessibility": ""
-  },
-  {
     "uuid": "44b4e45e-f9b6-4ae6-b4ef-3347fdbf6ab4",
     "name": "Marshfield Fairgrounds",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=marshfield+fairgrounds&search_radius=All",
-    "scraperParams": {
-        "titleName": "Marshfield Fairgrounds"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/marshfield-fairgrounds/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02050",
     "state": "MA",
-    "serves": "Eligible populations in Plymouth County ",
+    "serves": "Eligible populations statewide",
     "address": "140 Main St, Marshfield, MA 02050",
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=marshfield+fairgrounds&search_radius=All",
     "siteType": "driveThrough",
@@ -187,32 +158,11 @@
     "accessibility": ""
   },
   {
-    "uuid": "886509b9-4acc-4e5b-88d4-8c3586f68f03",
-    "name": "Needham Public Health Clinic--Center at the Heights",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=needham+public+health&search_radius=All",
-    "scraperParams": {
-        "titleName": "Needham Public Health - Center at the Heights"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "02494",
-    "state": "MA",
-    "serves": "Eligible populations statewide",
-    "address": "300 Hillside Avenue, Needham, MA 02494",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=needham+public+health&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "Please provide proof of eligibility to receive the vaccine",
-    "accessibility": ""
-  },
-  {
     "uuid": "e9f07497-d83d-4447-9a6e-56e48ff4b2a4",
     "name": "St. Elizabeth of Hungary Church",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=elizabeth+hungary&search_radius=All",
-    "scraperParams": {
-        "titleName": "St. Elizabeth of Hungary Parish"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/st-elizabeth-of-hungary-parish/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01247",
@@ -228,15 +178,13 @@
     "uuid": "4c5a05c3-01c4-475a-a838-6638cd6b14fa",
     "name": "Orleans Department of Public Works",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=orleans+dpw&search_radius=All",
-    "scraperParams": {
-        "titleName": "Orleans DPW"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/orleans-department-of-public-works/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "02653",
     "state": "MA",
-    "serves": "Eligible populations in Barnstable County",
+    "serves": "Eligible populations statewide",
     "address": "40 Giddiah Hill Rd, Orleans, MA 02653",
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=orleans+dpw&search_radius=All",
     "siteType": "driveThrough",
@@ -244,32 +192,11 @@
     "accessibility": ""
   },
   {
-    "uuid": "9662685d-515f-4ab2-93da-f5cfc106be7d",
-    "name": "Worcester Senior Center",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=worcester+senior+center&search_radius=All",
-    "scraperParams": {
-        "titleName": "Worcester Senior Center"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "01604",
-    "state": "MA",
-    "serves": "Eligible populations who live or work in Grafton, Holden, Millbury, Shrewsbury, West Boylston, Worcester",
-    "address": "128 Providence Street, Worcester, MA 01604",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=worcester+senior+center&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "",
-    "accessibility": ""
-  },
-  {
     "uuid": "54a67f07-9964-44d4-920f-8db6d5a2894b",
     "name": "Saint Vincent Hospital Vaccine Collaborative @ Worcester State University - Wellness Center",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=saint+vincent&search_radius=All",
-    "scraperParams": {
-        "titleName": "Saint Vincent Hospital Vaccine Collaborative @ Worcester State University - Wellness Center"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/saint-vincent-hospital-vaccine-collaborative-worcester-state-university-wellness-center/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01602",
@@ -278,122 +205,25 @@
     "address": "486 Chandler Street, Worcester MA, 01602",
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=saint+vincent&search_radius=All",
     "siteType": "indoor",
-    "siteInstructions": "By Appointment Only - Arrive 15min before schedule appointment BRING PHOTO ID AND INSURANCE CARDS Do not enter the building until 5 min before your scheduled appt time MASKS are required and must be worn properly at all times Wear clothing that allows a clinician to easily access your upper arm. The vaccine is delivered to the deltoid muscle, the big muscle on your shoulder. Consider wearing a short-sleeved shirt, or wear a short-sleeved shirt under a sweater or jacket that can be easily removed.",
+    "siteInstructions": "Wear mask, observe social distancing.",
     "accessibility": ""
   },
   {
     "uuid": "0a379503-2cbc-4316-90ad-c9c60976e61c",
-    "name": "Greenfield Senior Center",
+    "name": "John Zon Center",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=greenfield+senior+center&search_radius=All",
-    "scraperParams": {
-        "titleName": "Greenfield Senior Center"
-    },
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/greenfield-senior-center/",
+    "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-05:00",
     "zip": "01301",
     "state": "MA",
-    "serves": "Eligible populations in Franklin County",
+    "serves": "Eligible populations statewide",
     "address": "35 Pleasant Street, Greenfield MA, 01301",
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=greenfield+senior+center&search_radius=All",
     "siteType": "indoor",
-    "siteInstructions": "This clinic is for eligible residents in Franklin County under phase 1 and 2 of the vaccination plan. If you have received a vaccination from another clinic you can not schedule your second vaccination at this clinic currently.",
-    "accessibility": ""
-  },
-  {
-    "uuid": "340be182-e8f7-4670-9389-3327835a6f64",
-    "name": "Paxton Public Safety Complex",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=paxton+public+safety&search_radius=All",
-    "scraperParams": {
-        "titleName": "Paxton Public Safety Complex"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "01612",
-    "state": "MA",
-    "serves": "Eligible populations in Paxton",
-    "address": "576 Pleasant St. , Paxton MA, 01612",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=paxton+public+safety&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "This clinic is for Paxton residents aged 75 and up ONLY. Registrations will be screened for eligibility and your appointment will be cancelled if you do not meet these eligibility criteria. Please arrive at your scheduled time and park in the upper lot near the main door. If you arrive early, you may be asked to wait in your car until your appointment time or leave and return at your scheduled time, due to the need for proper social distancing in the clinic. Please bring an ID with you for proof of residency and age, as well as your insurance cards.",
-    "accessibility": ""
-  },
-  {
-    "uuid": "61459b60-9838-45b0-a666-210453123a1e",
-    "name": "Melrose Memorial Hall",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=memorial+hall&search_radius=All",
-    "scraperParams": {
-        "titleName": "Memorial Hall"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "02176",
-    "state": "MA",
-    "serves": "Eligible populations in Malden, Medford, Melrose, Stoneham, Wakefield, Winchester",
-    "address": "590 Main Street, Melrose, MA 02176",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=memorial+hall&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "Book appointment online, enter in lobby, wear a mask",
-    "accessibility": ""
-  },
-  {
-    "uuid": "979a1f41-93a2-42f1-9521-a1b7944429f8",
-    "name": "Tree House Deerfield",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=tree+house+deerfield&search_radius=All",
-    "scraperParams": {
-        "titleName": "Tree House Deerfield"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "01373",
-    "state": "MA",
-    "serves": "Eligible populations in Franklin County",
-    "address": "One Community Place, South Deerfield MA, 01373",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=tree+house+deerfield&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "This clinic serves eligible populations in Franklin County. Instructions: Plan on arriving no more than ten minutes before your appointment. Please wear a t-shirt under your sweater or coat so we can reach your shoulder for the vaccine. You will be asked to wait for at least 15 minutes after your vaccination. It is best to use Chrome, FireFox or Safari as your browser to register online. This clinic is located off route 5 in the former Channing Bete building.",
-    "accessibility": ""
-  },
-  {
-    "uuid": "c2617b16-a7b0-4f36-a3a6-0a86d5db9554",
-    "name": "Salemwood School",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=salemwood+school&search_radius=All",
-    "scraperParams": {
-        "titleName": "Salemwood School"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "02148",
-    "state": "MA",
-    "serves": "Eligible populations in Malden",
-    "address": "529 Salem Street, Malden MA, 02148",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=salemwood+school&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "**MALDEN RESIDENTS ONLY** This Clinic is for Malden residents eligible in Phase 1 or 75 years old or older only. All attendees will be required to show identification and those Phase 1 attendees must provide employment information upon request.",
-    "accessibility": ""
-  },
-  {
-    "uuid": "b5984c91-dc74-4c2c-8ba3-1598113bd6e4",
-    "name": "Palmer Converse Middle School",
-    "scraperClass": "prepmod",
-    "scraperUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=converse+middle+school&search_radius=All",
-    "scraperParams": {
-        "titleName": "Converse Middle School"
-    },
-    "notificationThreshold": 2,
-    "tz": "-05:00",
-    "zip": "01069",
-    "state": "MA",
-    "serves": "Eligible people in Brimfield, Hampden, Holland, Ludlow, Monson, Palmer, Sturbridge, Warren, Wales, West Brookfield, Wilbraham",
-    "address": "24 Converse Street, Palmer, MA 01069",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=converse+middle+school&search_radius=All",
-    "siteType": "indoor",
-    "siteInstructions": "Park in second lot, and enter through double glass doors.",
-    "accessibility": ""
+    "siteInstructions": "From South (or I-90): On I-91, Take the MA-2W Exit 26, toward Greenfield Center/North Adams/2AE. Take the 1st exit off of the traffic circle to Mohawk Trail/MA 2A. Stay straight to go onto Mohawk Trl/MA-2A. Continue to follow MA-2A. Turn left onto Chapman St. Turn right onto Pleasant St. 35 Pleasant St, Greenfield, MA 01301-2423, 35 PLEASANT ST is on the left.",
+    "accessibility": "There is ample parking and the site is wheelchair accessible."
   },
   {
     "uuid": "1497338f-2b14-4568-b66c-e9b767f19836",
@@ -414,5 +244,1172 @@
     "siteType": "indoor",
     "siteInstructions": "Enter building at 5 Water St and knock on door.",
     "accessibility": ""
+  },
+  {
+    "uuid": "a37f7af3-87b3-4be8-8008-f194d721b1a6",
+    "name": "Former Circuit City",
+    "scraperClass": "curative",
+    "scraperUrl": "https://labtools.curativeinc.com/api/v1/testing_sites/",
+    "scraperParams": {
+      "curativeSiteId": "25336"
+    },
+    "notificationThreshold": 2,
+    "tz": "-05:00",
+    "zip": "02747",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "456 State Rd. North Dartmouth MA 02747",
+    "linkUrl": "https://curative.com/sites/25336",
+    "siteType": "indoor",
+    "siteInstructions": "When booking your appointment online, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the Curative call center to cancel an appointment: 888-702-9042.",
+    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available."
+  },
+  {
+    "uuid": "f2bf3f02-5be8-4f08-8a5f-8c1ee0455f7d",
+    "name": "Falmouth Fairgrounds",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/east-falmouth-falmouth-fairgrounds/",
+    "scraperParams": {},
+    "tz": "-05:00",
+    "zip": "02536",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1220 Nathan Ellis Hwy East Falmouth MA 02536",
+    "linkUrl": "https://www.maimmunizations.org/",
+    "siteType": "driveThrough",
+    "siteInstructions": "Do not call the Fairgrounds, they have no information on vaccine or appointments. For vaccine information please call the COVID-19 Help Line: (774) 330-3001. Follow the directions of flow on site. If you are placed on the waitlist, we will contact you via email if you receive an appointment.",
+    "accessibility": ""
+  },
+  {
+    "uuid": "59509fb8-8a20-46c9-b74b-f7e1697d343b",
+    "name": "Bristol Community College",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/bristol-community-college/",
+    "scraperParams": {},
+    "tz": "-05:00",
+    "zip": "02720",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "777 Elsbree Street Fall River MA 02720",
+    "linkUrl": "https://www.maimmunizations.org/clinic/search?location=&search_radius=All&q%5Bvenue_search_name_or_venue_name_i_cont%5D=Bristol+Community+College#q_vaccinations_name_i_cont",
+    "siteType": "indoor",
+    "siteInstructions": "This clinic is only open to those eligible per the distribution timeline. All individuals must have an appointment. Follow signs for vaccine clinic.",
+    "accessibility": ""
+  },
+  {
+    "uuid": "59509fb8-8a20-46c9-b74b-f7e1697d343b",
+    "name": "Hyannis Melody Tent",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/melody-tent-parking-lot/",
+    "scraperParams": {},
+    "tz": "-05:00",
+    "zip": "02601",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "21 Main Street Hyannis MA 02601",
+    "linkUrl": "https://www.maimmunizations.org/",
+    "siteType": "driveThrough",
+    "siteInstructions": "Follow the directions of flow on site; enter off Scudder Ave. If you are placed on the waitlist, we will contact you via email if you receive an appointment.",
+    "accessibility": ""
+  },
+  {
+    "uuid": "627f4e8e-06ae-43b7-82bc-88651176acc7",
+    "name": "Berkshire Community College Paterson Field House",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/berkshire-community-college-field-house/",
+    "scraperParams": {},
+    "tz": "-05:00",
+    "zip": "01201",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1350 West Street Pittsfield MA 01201",
+    "linkUrl": "https://www.maimmunizations.org/",
+    "siteType": "indoor",
+    "siteInstructions": "Bring ID to prove eligibility. Wear a loose-fitting or short-sleeved shirt.",
+    "accessibility": ""
+  },
+  {
+    "uuid": "4244e4de-21cf-4935-ad46-5ab505c8befa",
+    "name": "Randolph Intergenerational Community Center",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/randolph-intergenerational-center-ricc/",
+    "scraperParams": {},
+    "tz": "-05:00",
+    "zip": "02368",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "128 Pleasant Street Randolph MA 02368",
+    "linkUrl": "https://www.maimmunizations.org/",
+    "siteType": "driveThrough",
+    "siteInstructions": "Wear loose-fitting clothing, bring insurance card if have one (everyone accepted)",
+    "accessibility": ""
+  },
+  {
+    "uuid": "e9b2eada-bdc2-427a-84b4-7c32bb25baa4",
+    "name": "Rutland Free Public Library",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/rutland-rutland-free-public-library/",
+    "scraperParams": {},
+    "tz": "-05:00",
+    "zip": "01543",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "280 Main Street Rutland MA 01543",
+    "linkUrl": "https://www.maimmunizations.org/",
+    "siteType": "indoor",
+    "siteInstructions": "Downstairs parking in rear, lower, side entrance.",
+    "accessibility": ""
+  },
+  {
+    "uuid": "2be5d403-6969-42ed-ba36-e09689f7ed56",
+    "name": "Mercy Medical Center",
+    "scraperClass": "sphp",
+    "scraperUrl": "https://apps.sphp.com/THofNECOVIDVaccinations/livesearch.php",
+    "scraperParams": {
+        "cookie": "SiteName=THOfNE%20Mercy%20Medical%20Center"
+    },
+    "tz": "-05:00",
+    "zip": "01104",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "271 Carew Street Springfield MA 01104",
+    "linkUrl": "https://www.trinityhealthofne.org/mercy-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Please park in Visitor Parking and enter the Main Entrance of the hospital. Let the screener know you are arriving for a COVID Vaccine appointment, and take the elevators immediately to your left down to the Ground Floor. The Vaccine Clinic entrance will be straight ahead in the Deliso Conference Center.",
+    "accessibility": ""
+  },
+  {
+    "uuid": "eacafa33-b4c3-49c6-b335-b07fd598b896",
+    "name": "CVS Agawam",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "AGAWAM"
+    },
+    "tz": "-05:00",
+    "zip": "01001",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "163 Silver Street Agawam MA 01001",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "58e4b468-ea0d-4a4b-8c62-38f36ab360ee",
+    "name": "CVS Boston",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "BOSTON"
+    },
+    "tz": "-05:00",
+    "zip": "02118",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "874 Harrison Ave Boston MA 02118",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "8927bc32-d6a2-4253-8421-5d405dc0526d",
+    "name": "CVS Braintree",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "BRAINTREE"
+    },
+    "tz": "-05:00",
+    "zip": "02184",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "178 Washington St. Braintree MA 02184",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "c209664d-137b-4bd8-808f-f4fcbe040548",
+    "name": "CVS Brockton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "BROCKTON"
+    },
+    "tz": "-05:00",
+    "zip": "02302",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "355 Centre St. Brockton MA 02302",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "c9126a6f-214d-4229-8e3d-91fb38f50922",
+    "name": "CVS Cambridge",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "CAMBRIDGE"
+    },
+    "tz": "-05:00",
+    "zip": "02138",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "215 Alewife Brook Parkway Cambridge MA 02138",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "508ac62e-116e-4003-9e9f-ef79754c5464",
+    "name": "CVS Chelsea",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "CHELSEA"
+    },
+    "tz": "-05:00",
+    "zip": "02150",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1010 Revere Beach Pkwy Chelsea MA 02150",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "0f0dc869-c319-4cbc-80b7-5f4b463b6ddb",
+    "name": "CVS Dedham",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "DEDHAM"
+    },
+    "tz": "-05:00",
+    "zip": "02026",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "270 Bussey St Della Park Plaza Dedham MA 02026",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "1d12d5b8-206d-43d0-92ac-a65c50577d50",
+    "name": "CVS East Boston",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "EAST BOSTON"
+    },
+    "tz": "-05:00",
+    "zip": "02128",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "210 Border Street East Boston MA 02128",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "d36c1b5d-082b-4463-b135-c8ae7f58ded2",
+    "name": "CVS East Falmouth",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "EAST FALMOUTH"
+    },
+    "tz": "-05:00",
+    "zip": "02536",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "419 East Falmouth Hwy. East Falmouth MA 02536",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "de0ca22d-76f5-4fb1-aa42-94e311a6186c",
+    "name": "CVS Fall River",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "FALL RIVER"
+    },
+    "tz": "-05:00",
+    "zip": "02720",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "550 Pleasant St. Fall River MA 02720",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "3d652195-b6ea-4889-a92a-c6f4669d1c94",
+    "name": "CVS Greenfield",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "GREENFIELD"
+    },
+    "tz": "-05:00",
+    "zip": "01301",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "137 Federal Street Greenfield MA 01301",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "7fecb768-468e-4216-aee4-849912b4455e",
+    "name": "CVS Hanover",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "GREENFIELD"
+    },
+    "tz": "-05:00",
+    "zip": "02339",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "207 Rockland St. Hanover MA 02339",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "576c6326-be84-44da-a1d8-d65227265102",
+    "name": "CVS Haverhill",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HAVERHILL"
+    },
+    "tz": "-05:00",
+    "zip": "01832",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "150 Lafayette Square Haverhill MA 01832",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "34e0bf9e-31fa-4b33-98d9-d3dddb300598",
+    "name": "CVS Holbrook",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HOLBROOK"
+    },
+    "tz": "-05:00",
+    "zip": "02343",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "842 South Franklin Street Holbrook MA 02343",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "258a0a7d-bfac-46da-8d5c-b962f509548d",
+    "name": "CVS Holyoke",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HOLYOKE"
+    },
+    "tz": "-05:00",
+    "zip": "01040",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "250 Whiting Farms Rd. Holyoke MA 01040",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "b88741ef-f524-4473-9a13-40b12c62908e",
+    "name": "CVS Hudson",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HUDSON"
+    },
+    "tz": "-05:00",
+    "zip": "01749",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "234 Washington St Hudson MA 01749",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "d580a87c-6ba1-4b60-a670-ae73f7e46365",
+    "name": "CVS Hyannis",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HYANNIS"
+    },
+    "tz": "-05:00",
+    "zip": "02601",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "411 Barnstable Rd Hyannis MA 02601",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "69916718-149a-4b55-b886-3596d4812721",
+    "name": "CVS Hyde Park",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HYDE PARK"
+    },
+    "tz": "-05:00",
+    "zip": "02136",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "942A Hyde Park Avenue Hyde Park MA 02136",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "bbbff53a-351d-4b13-9fcd-d493bad482a7",
+    "name": "CVS Ipswich",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "IPSWICH"
+    },
+    "tz": "-05:00",
+    "zip": "01938",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "114 Central St Ipswich MA 01938",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "ca9fa382-e2a7-4bf3-a23f-c577b5abf381",
+    "name": "CVS Lowell",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "LOWELL"
+    },
+    "tz": "-05:00",
+    "zip": "01850",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "336 Bridge St. Lowell MA 01850",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "2a7ead54-d3c9-4f5b-a5c3-e3162b1f53b6",
+    "name": "CVS Lynn",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "LYNN"
+    },
+    "tz": "-05:00",
+    "zip": "01905",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "200 South Common St. Lynn MA 01905",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "6320fa3e-4e20-4075-83e2-451a4712dfb2",
+    "name": "CVS Malden",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "MALDEN"
+    },
+    "tz": "-05:00",
+    "zip": "02148",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "575 Broadway Malden MA 02148",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "e7a324f8-8e23-4ec9-9b6e-6ad2e97e33f1",
+    "name": "CVS Maynard",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "MAYNARD"
+    },
+    "tz": "-05:00",
+    "zip": "01754",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "105 Main St. Maynard MA 01754",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "213ea7e5-9cf3-4ff3-93bc-0e8652ac17ca",
+    "name": "CVS Medfield",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "MEDFIELD"
+    },
+    "tz": "-05:00",
+    "zip": "02052",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "555 Main Street Medfield MA 02052",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "41c5f08a-48bf-493b-a79d-df3523baa7c9",
+    "name": "CVS Medford",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "MEDFORD"
+    },
+    "tz": "-05:00",
+    "zip": "02155",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "590 Fellsway Medford MA 02155",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "d62b2b8c-247b-4dca-ba44-91f12b192772",
+    "name": "CVS Methuen",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "METHUEN"
+    },
+    "tz": "-05:00",
+    "zip": "01844",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "233 Broadway Methuen MA 01844",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "cfb58bb9-e9c6-4b0f-a14f-e2a19959bf85",
+    "name": "CVS Milford",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "MILFORD"
+    },
+    "tz": "-05:00",
+    "zip": "01757",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "50 Medway Rd, Milford MA 01757",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "53dd6291-7985-4a31-bc9e-036842087cbb",
+    "name": "CVS New Bedford",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "NEW BEDFORD"
+    },
+    "tz": "-05:00",
+    "zip": "02746",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "136 Ashley Blvd. New Bedford MA 02746",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "a6a386f9-d131-47a0-b59c-c3cb63ff7957",
+    "name": "CVS Newton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "NEWTON"
+    },
+    "tz": "-05:00",
+    "zip": "02461",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "978 Boylston St. Newton MA 02461",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "b77619e8-6b23-4589-9fae-cb13c493e6fb",
+    "name": "CVS North Easton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "NORTH EASTON"
+    },
+    "tz": "-05:00",
+    "zip": "02356",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "2 Roche Brothers Way North Easton MA 02356",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "cf9b703f-5bc8-4653-a271-7bf028d388c1",
+    "name": "CVS North Grafton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "NORTH GRAFTON"
+    },
+    "tz": "-05:00",
+    "zip": "01536",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "100 Worcester St, North Grafton MA 01536",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "76eba0ec-24ee-4f3d-9212-58f72c9af513",
+    "name": "CVS Palmer",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "PALMER"
+    },
+    "tz": "-05:00",
+    "zip": "01069",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1001 Thorndike St. Palmer MA 01069",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "6681e4cc-e44d-4172-99aa-c09faf384614",
+    "name": "CVS Peabody",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "PEABODY"
+    },
+    "tz": "-05:00",
+    "zip": "01960",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "174 Main St. Peabody MA 01960",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "ca03190d-0eed-42e0-b9be-7c7ae0f32dec",
+    "name": "CVS Randolph",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "RANDOLPH"
+    },
+    "tz": "-05:00",
+    "zip": "02368",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "171 North Main Street Randolph MA 02368",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "e1e251e2-d090-42ae-836b-9f0aedfb2e1a",
+    "name": "CVS Revere",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "REVERE"
+    },
+    "tz": "-05:00",
+    "zip": "02151",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "339 Squire Road Revere MA 02151",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "3c80a248-09a3-49a3-98e2-e1f2ed62376a",
+    "name": "CVS Salem",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "SALEM"
+    },
+    "tz": "-05:00",
+    "zip": "01970",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "300 Canal Street Salem MA 01970",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "9d726689-8aa7-464b-bc1b-df205a6f85b8",
+    "name": "CVS Seekonk",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "SEEKONK"
+    },
+    "tz": "-05:00",
+    "zip": "02771",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1479 Newman Ave. Seekonk MA 02771",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "e603f5bf-a0b5-4eee-857d-93573f455cad",
+    "name": "CVS South Yarmouth",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "SOUTH YARMOUTH"
+    },
+    "tz": "-05:00",
+    "zip": "02664",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "465 Station Avenue South Yarmouth MA 02664",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "4841c6bc-7a75-4c9f-8a0a-d9755698f9a9",
+    "name": "CVS Springfield",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "SPRINGFIELD"
+    },
+    "tz": "-05:00",
+    "zip": "01119",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1242 Parker St Springfield MA 01119",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "86456328-fa13-4033-ab75-68ff3ceb70ca",
+    "name": "CVS Sturbridge",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "STURBRIDGE"
+    },
+    "tz": "-05:00",
+    "zip": "01566",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "362 Main St Sturbridge MA 01566",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "5c7cfcd0-be22-48d7-a925-56af103fdf3f",
+    "name": "CVS Taunton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "TAUNTON"
+    },
+    "tz": "-05:00",
+    "zip": "02780",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "675 County Street Taunton MA 02780",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "cccec3d6-9e50-45e5-8c0c-40203e8fe1ea",
+    "name": "CVS Waltham",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WALTHAM"
+    },
+    "tz": "-05:00",
+    "zip": "02453",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "12 Harvard St. Waltham MA 02453",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "fc59b40c-2ef2-4c2f-9d76-4080831be7d0",
+    "name": "CVS Watertown",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WATERTOWN"
+    },
+    "tz": "-05:00",
+    "zip": "02472",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "655 Mount Auburn Street Watertown MA 02472",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "056b0b40-8fd8-46d0-aaae-ff5bd75bd695",
+    "name": "CVS Wayland",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WAYLAND"
+    },
+    "tz": "-05:00",
+    "zip": "01778",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "150 Main St. Wayland MA 01778",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "bb82d8b5-b197-4b05-bd10-fbc996cc61a7",
+    "name": "CVS West Bridgewater",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WEST BRIDGEWATER"
+    },
+    "tz": "-05:00",
+    "zip": "02379",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "2 W. Center St. West Bridgewater MA 02379",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "6d6e9bfa-c9ee-4074-86ad-90568f9d1ce7",
+    "name": "CVS Weymouth",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WEYMOUTH"
+    },
+    "tz": "-05:00",
+    "zip": "02191",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "737 Bridge Street Weymouth MA 02191",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "43bdb1d0-09a9-4620-b2cb-94f6a4e009ed",
+    "name": "CVS Worcester",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WORCESTER"
+    },
+    "tz": "-05:00",
+    "zip": "01608",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "110 Front St. Suite #102 Worcester MA 01608",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
   }
 ]

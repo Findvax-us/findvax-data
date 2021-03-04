@@ -11,7 +11,7 @@ aws s3 sync ./ s3://findvax-data\
  --exclude "*"\
  --include "states.json"\
  --include "*/locations.json"\
- --cache-control "public; max-age=300; must-revalidate"\
+ --cache-control "public; max-age=120; must-revalidate"\
  --output json
 
 aws s3 sync ./ s3://findvax-data\
