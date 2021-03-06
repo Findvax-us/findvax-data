@@ -1233,7 +1233,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -1409,7 +1410,166 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
+        "no-timeslots",
+        "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "f8aa18e9-6dcf-4705-8de4-45872ef231fb",
+    "name": "CVS Bourne",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "BOURNE"
+    },
+    "tz": "-05:00",
+    "zip": "02532",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "6 Head Of The Bay Road, Bourne, MA 02532",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
         "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "e69ec5bf-b24d-43d6-9160-4b70db21ebed",
+    "name": "CVS Georgetown",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "GEORGETOWN"
+    },
+    "tz": "-05:00",
+    "zip": "01833",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "65 Central Street Georgetown, MA 01833",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "d425c365-1fab-4359-9381-c630dd3b46db",
+    "name": "CVS Harwichport",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "HARWICHPORT"
+    },
+    "tz": "-05:00",
+    "zip": "02646",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "Main St, 6 Post Office Square, Harwichport, MA 02646",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "fba7c3f1-e327-4533-b0c9-f713a6660435",
+    "name": "CVS Lawrence",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "LAWRENCE"
+    },
+    "tz": "-05:00",
+    "zip": "01841",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "266 Broadway, Lawrence, MA 01841",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots",
+        "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "9c428292-bc65-433f-8c61-958249f40675",
+    "name": "CVS Lexington",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "LEXINGTON"
+    },
+    "tz": "-05:00",
+    "zip": "02420",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1735 Massachusetts Avenue Lexington, MA 02420",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots",
+        "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "43711bf5-7e9f-43ed-b4ee-43a68c930639",
+    "name": "CVS Westford",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WESTFORD"
+    },
+    "tz": "-05:00",
+    "zip": "01886",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "174 Littleton Rd, Westford Marketplace, Westford, MA 01886",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots",
+        "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "24cbbb86-42f4-4e15-8735-1ff44feb13c1",
+    "name": "CVS Wilbraham",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+        "segmentId": "ma",
+        "locationName": "WILBRAHAM"
+    },
+    "tz": "-05:00",
+    "zip": "01095",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1990 Boston Rd, Wilbraham, MA 01095",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+        "no-timeslots",
+        "nonspecific-location"
     ]
   }
 ]
