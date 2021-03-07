@@ -376,7 +376,10 @@
     "linkUrl": "https://www.trinityhealthofne.org/mercy-vaccine",
     "siteType": "indoor",
     "siteInstructions": "Please park in Visitor Parking and enter the Main Entrance of the hospital. Let the screener know you are arriving for a COVID Vaccine appointment, and take the elevators immediately to your left down to the Ground Floor. The Vaccine Clinic entrance will be straight ahead in the Deliso Conference Center.",
-    "accessibility": ""
+    "accessibility": "",
+    "caveats": [
+        "high-turnover"
+    ]
   },
   {
     "uuid": "eacafa33-b4c3-49c6-b335-b07fd598b896",
@@ -419,7 +422,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -485,7 +489,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -551,7 +556,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -627,7 +633,7 @@
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
         "segmentId": "ma",
-        "locationName": "GREENFIELD"
+        "locationName": "HANOVER"
     },
     "tz": "-05:00",
     "zip": "02339",
@@ -815,7 +821,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -837,7 +844,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -859,7 +867,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -925,7 +934,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -1167,7 +1177,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
@@ -1300,7 +1311,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+        "no-timeslots",
+        "nonspecific-location"
     ]
   },
   {
