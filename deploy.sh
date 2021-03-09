@@ -18,6 +18,14 @@ aws s3 sync ./ s3://findvax-data\
  --profile findvax\
  --delete\
  --exclude "*"\
+ --include "*/zipcodes.json"\
+ --cache-control "public; max-age=31536000; must-revalidate"\
+ --output json
+
+aws s3 sync ./ s3://findvax-data\
+ --profile findvax\
+ --delete\
+ --exclude "*"\
  --include "index.html"\
  --cache-control "public; max-age=31536000; immutable"\
  --output json
