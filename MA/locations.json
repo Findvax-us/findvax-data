@@ -88,6 +88,23 @@
     "accessibility": "The entire path of travel from arrival/drop-off (Gate A on Jersey Street) to exit (Gate E on Lansdowne Street) is fully accessible via ramps and walkways. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break."
   },
   {
+    "uuid": "61663d71-7cbb-4d18-9c33-bc1dcfcd1fbb",
+    "name": "Natick Mall",
+    "scraperClass": "prepmod",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/natick-natick-mall/",
+    "scraperParams": {},
+    "notificationThreshold": 2,
+    "tz": "-05:00",
+    "zip": "01760",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1235 Worcester St Natick MA 01760",
+    "linkUrl": "https://home.color.com/vaccine/register/natickmall",
+    "siteType": "indoor",
+    "siteInstructions": "Park in Garage C, the entrance to the site is on level one. When booking your appointment online, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the LabCorp call center to cancel an appointment: 888-990-6066.",
+    "accessibility": "The main entrance is wheelchair accessible and wheelchairs will be provided on site to those who need one. There is accessible parking, an accessible drop off and pick up location and staff are available to assist as needed."
+  },
+  {
     "uuid": "5e674bef-542d-497b-bb8e-06a5534b3e81",
     "name": "Reggie Lewis Center (Roxbury Community College)",
     "scraperClass": "prepmod",
