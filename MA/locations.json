@@ -14,7 +14,10 @@
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=gillette&search_radius=All",
     "siteType": "indoor",
     "siteInstructions": "Book an appointment in advance, online. When booking, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the CIC Health call center to cancel an appointment: 888-623-3830.",
-    "accessibility": "The entire path of travel from arrival/drop-off (W4 entrance) to exit (W3) is fully accessible via walkways and elevators. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break. There is handicap parking onsite and the entire lot is accessible."
+    "accessibility": "The entire path of travel from arrival/drop-off (W4 entrance) to exit (W3) is fully accessible via walkways and elevators. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break. There is handicap parking onsite and the entire lot is accessible.",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "8001647e-ecd5-497f-b846-42f68d334ae8",
@@ -33,7 +36,10 @@
     "linkUrl": "https://curative.com/sites/24182#9/",
     "siteType": "indoor",
     "siteInstructions": "Parking can be found on the north end of the mall complex. Both entry and exit can be found on the north end of the facility (Macy's).",
-    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available."
+    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available.",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "c397c7cd-4ccd-4340-966d-5356aca0b885",
@@ -85,7 +91,10 @@
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=fenway&search_radius=All",
     "siteType": "indoor",
     "siteInstructions": "Book an appointment in advance, online. When booking, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the CIC Health call center to cancel an appointment: 888-623-3830.",
-    "accessibility": "The entire path of travel from arrival/drop-off (Gate A on Jersey Street) to exit (Gate E on Lansdowne Street) is fully accessible via ramps and walkways. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break."
+    "accessibility": "The entire path of travel from arrival/drop-off (Gate A on Jersey Street) to exit (Gate E on Lansdowne Street) is fully accessible via ramps and walkways. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break.",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "61663d71-7cbb-4d18-9c33-bc1dcfcd1fbb",
@@ -102,7 +111,10 @@
     "linkUrl": "https://home.color.com/vaccine/register/natickmall",
     "siteType": "indoor",
     "siteInstructions": "Park in Garage C, the entrance to the site is on level one. When booking your appointment online, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the LabCorp call center to cancel an appointment: 888-990-6066.",
-    "accessibility": "The main entrance is wheelchair accessible and wheelchairs will be provided on site to those who need one. There is accessible parking, an accessible drop off and pick up location and staff are available to assist as needed."
+    "accessibility": "The main entrance is wheelchair accessible and wheelchairs will be provided on site to those who need one. There is accessible parking, an accessible drop off and pick up location and staff are available to assist as needed.",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "5e674bef-542d-497b-bb8e-06a5534b3e81",
@@ -119,7 +131,10 @@
     "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=reggie+lewis&search_radius=All",
     "siteType": "indoor",
     "siteInstructions": "This clinic is intended for all eligible priority groups per the Commonwealth of Massachusetts’ vaccine distribution timeline that live or work in the City of Boston, regardless of immigration status. ID is not required. Pre-registration for this vaccination clinic is required.",
-    "accessibility": ""
+    "accessibility": "",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "3225f157-1334-498c-b14b-827bcf1b1c7f",
@@ -127,7 +142,7 @@
     "scraperClass": "curative",
     "scraperUrl": "https://labtools.curativeinc.com/api/v1/testing_sites/",
     "scraperParams": {
-        "curativeSiteId": "24181"
+      "curativeSiteId": "24181"
     },
     "notificationThreshold": 2,
     "tz": "-05:00",
@@ -138,7 +153,10 @@
     "linkUrl": "https://curative.com/sites/24181",
     "siteType": "indoor",
     "siteInstructions": "Two areas of parking are available just west of the facility. Entry can be found on the north end of the Grand Ballroom complex. Exit can be found on the west end of the Grand Ballroom complex. ",
-    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available."
+    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available.",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "0915636c-e400-4438-bf86-19456be828de",
@@ -279,7 +297,10 @@
     "linkUrl": "https://curative.com/sites/25336",
     "siteType": "indoor",
     "siteInstructions": "When booking your appointment online, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the Curative call center to cancel an appointment: 888-702-9042.",
-    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available."
+    "accessibility": "Wheelchairs are available on-site for guest use and there is accessible drop off and pick up. Ramp accessibility is available. Additional accommodations for entry and exit are available.",
+    "caveats": [
+      "massvax-preregistration.html"
+    ]
   },
   {
     "uuid": "f2bf3f02-5be8-4f08-8a5f-8c1ee0455f7d",
@@ -383,7 +404,7 @@
     "scraperClass": "sphp",
     "scraperUrl": "https://apps.sphp.com/THofNECOVIDVaccinations/livesearch.php",
     "scraperParams": {
-        "cookie": "SiteName=THOfNE%20Mercy%20Medical%20Center"
+      "cookie": "SiteName=THOfNE%20Mercy%20Medical%20Center"
     },
     "tz": "-05:00",
     "zip": "01104",
@@ -395,7 +416,7 @@
     "siteInstructions": "Please park in Visitor Parking and enter the Main Entrance of the hospital. Let the screener know you are arriving for a COVID Vaccine appointment, and take the elevators immediately to your left down to the Ground Floor. The Vaccine Clinic entrance will be straight ahead in the Deliso Conference Center.",
     "accessibility": "",
     "caveats": [
-        "high-turnover"
+      "high-turnover"
     ]
   },
   {
@@ -404,8 +425,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "AGAWAM"
+      "segmentId": "ma",
+      "locationName": "AGAWAM"
     },
     "tz": "-05:00",
     "zip": "01001",
@@ -417,8 +438,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -427,8 +448,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "BOSTON"
+      "segmentId": "ma",
+      "locationName": "BOSTON"
     },
     "tz": "-05:00",
     "zip": "02118",
@@ -440,8 +461,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -450,8 +471,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "BRAINTREE"
+      "segmentId": "ma",
+      "locationName": "BRAINTREE"
     },
     "tz": "-05:00",
     "zip": "02184",
@@ -463,8 +484,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -473,8 +494,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "BROCKTON"
+      "segmentId": "ma",
+      "locationName": "BROCKTON"
     },
     "tz": "-05:00",
     "zip": "02302",
@@ -486,8 +507,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -496,8 +517,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "CAMBRIDGE"
+      "segmentId": "ma",
+      "locationName": "CAMBRIDGE"
     },
     "tz": "-05:00",
     "zip": "02138",
@@ -509,8 +530,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -519,8 +540,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "CHELSEA"
+      "segmentId": "ma",
+      "locationName": "CHELSEA"
     },
     "tz": "-05:00",
     "zip": "02150",
@@ -532,8 +553,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -542,8 +563,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "DEDHAM"
+      "segmentId": "ma",
+      "locationName": "DEDHAM"
     },
     "tz": "-05:00",
     "zip": "02026",
@@ -555,8 +576,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -565,8 +586,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "EAST BOSTON"
+      "segmentId": "ma",
+      "locationName": "EAST BOSTON"
     },
     "tz": "-05:00",
     "zip": "02128",
@@ -578,8 +599,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -588,8 +609,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "EAST FALMOUTH"
+      "segmentId": "ma",
+      "locationName": "EAST FALMOUTH"
     },
     "tz": "-05:00",
     "zip": "02536",
@@ -601,7 +622,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -610,8 +631,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "FALL RIVER"
+      "segmentId": "ma",
+      "locationName": "FALL RIVER"
     },
     "tz": "-05:00",
     "zip": "02720",
@@ -623,8 +644,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -633,8 +654,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "GREENFIELD"
+      "segmentId": "ma",
+      "locationName": "GREENFIELD"
     },
     "tz": "-05:00",
     "zip": "01301",
@@ -646,7 +667,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -655,8 +676,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HANOVER"
+      "segmentId": "ma",
+      "locationName": "HANOVER"
     },
     "tz": "-05:00",
     "zip": "02339",
@@ -668,8 +689,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -678,8 +699,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HAVERHILL"
+      "segmentId": "ma",
+      "locationName": "HAVERHILL"
     },
     "tz": "-05:00",
     "zip": "01832",
@@ -691,8 +712,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -701,8 +722,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HOLBROOK"
+      "segmentId": "ma",
+      "locationName": "HOLBROOK"
     },
     "tz": "-05:00",
     "zip": "02343",
@@ -714,8 +735,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -724,8 +745,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HOLYOKE"
+      "segmentId": "ma",
+      "locationName": "HOLYOKE"
     },
     "tz": "-05:00",
     "zip": "01040",
@@ -737,8 +758,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -747,8 +768,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HUDSON"
+      "segmentId": "ma",
+      "locationName": "HUDSON"
     },
     "tz": "-05:00",
     "zip": "01749",
@@ -760,7 +781,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -769,8 +790,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HYANNIS"
+      "segmentId": "ma",
+      "locationName": "HYANNIS"
     },
     "tz": "-05:00",
     "zip": "02601",
@@ -782,8 +803,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -792,8 +813,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HYDE PARK"
+      "segmentId": "ma",
+      "locationName": "HYDE PARK"
     },
     "tz": "-05:00",
     "zip": "02136",
@@ -805,7 +826,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -814,8 +835,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "IPSWICH"
+      "segmentId": "ma",
+      "locationName": "IPSWICH"
     },
     "tz": "-05:00",
     "zip": "01938",
@@ -827,7 +848,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -836,8 +857,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "LOWELL"
+      "segmentId": "ma",
+      "locationName": "LOWELL"
     },
     "tz": "-05:00",
     "zip": "01850",
@@ -849,8 +870,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -859,8 +880,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "LYNN"
+      "segmentId": "ma",
+      "locationName": "LYNN"
     },
     "tz": "-05:00",
     "zip": "01905",
@@ -872,8 +893,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -882,8 +903,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "MALDEN"
+      "segmentId": "ma",
+      "locationName": "MALDEN"
     },
     "tz": "-05:00",
     "zip": "02148",
@@ -895,8 +916,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -905,8 +926,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "MAYNARD"
+      "segmentId": "ma",
+      "locationName": "MAYNARD"
     },
     "tz": "-05:00",
     "zip": "01754",
@@ -918,7 +939,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -927,8 +948,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "MEDFIELD"
+      "segmentId": "ma",
+      "locationName": "MEDFIELD"
     },
     "tz": "-05:00",
     "zip": "02052",
@@ -940,7 +961,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -949,8 +970,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "MEDFORD"
+      "segmentId": "ma",
+      "locationName": "MEDFORD"
     },
     "tz": "-05:00",
     "zip": "02155",
@@ -962,8 +983,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -972,8 +993,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "METHUEN"
+      "segmentId": "ma",
+      "locationName": "METHUEN"
     },
     "tz": "-05:00",
     "zip": "01844",
@@ -985,8 +1006,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -995,8 +1016,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "MILFORD"
+      "segmentId": "ma",
+      "locationName": "MILFORD"
     },
     "tz": "-05:00",
     "zip": "01757",
@@ -1008,8 +1029,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1018,8 +1039,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "NEW BEDFORD"
+      "segmentId": "ma",
+      "locationName": "NEW BEDFORD"
     },
     "tz": "-05:00",
     "zip": "02746",
@@ -1031,8 +1052,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1041,8 +1062,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "NEWTON"
+      "segmentId": "ma",
+      "locationName": "NEWTON"
     },
     "tz": "-05:00",
     "zip": "02461",
@@ -1054,8 +1075,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1064,8 +1085,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "NORTH EASTON"
+      "segmentId": "ma",
+      "locationName": "NORTH EASTON"
     },
     "tz": "-05:00",
     "zip": "02356",
@@ -1077,8 +1098,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1087,8 +1108,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "NORTH GRAFTON"
+      "segmentId": "ma",
+      "locationName": "NORTH GRAFTON"
     },
     "tz": "-05:00",
     "zip": "01536",
@@ -1100,7 +1121,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1109,8 +1130,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "PALMER"
+      "segmentId": "ma",
+      "locationName": "PALMER"
     },
     "tz": "-05:00",
     "zip": "01069",
@@ -1122,7 +1143,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1131,8 +1152,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "PEABODY"
+      "segmentId": "ma",
+      "locationName": "PEABODY"
     },
     "tz": "-05:00",
     "zip": "01960",
@@ -1144,8 +1165,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1154,8 +1175,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "RANDOLPH"
+      "segmentId": "ma",
+      "locationName": "RANDOLPH"
     },
     "tz": "-05:00",
     "zip": "02368",
@@ -1167,7 +1188,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1176,8 +1197,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "REVERE"
+      "segmentId": "ma",
+      "locationName": "REVERE"
     },
     "tz": "-05:00",
     "zip": "02151",
@@ -1189,8 +1210,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1199,8 +1220,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "SALEM"
+      "segmentId": "ma",
+      "locationName": "SALEM"
     },
     "tz": "-05:00",
     "zip": "01970",
@@ -1212,8 +1233,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1222,8 +1243,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "SEEKONK"
+      "segmentId": "ma",
+      "locationName": "SEEKONK"
     },
     "tz": "-05:00",
     "zip": "02771",
@@ -1235,8 +1256,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1245,8 +1266,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "SOUTH YARMOUTH"
+      "segmentId": "ma",
+      "locationName": "SOUTH YARMOUTH"
     },
     "tz": "-05:00",
     "zip": "02664",
@@ -1258,8 +1279,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1268,8 +1289,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "SPRINGFIELD"
+      "segmentId": "ma",
+      "locationName": "SPRINGFIELD"
     },
     "tz": "-05:00",
     "zip": "01119",
@@ -1281,8 +1302,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1291,8 +1312,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "STURBRIDGE"
+      "segmentId": "ma",
+      "locationName": "STURBRIDGE"
     },
     "tz": "-05:00",
     "zip": "01566",
@@ -1304,7 +1325,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1313,8 +1334,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "TAUNTON"
+      "segmentId": "ma",
+      "locationName": "TAUNTON"
     },
     "tz": "-05:00",
     "zip": "02780",
@@ -1326,8 +1347,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1336,8 +1357,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WALTHAM"
+      "segmentId": "ma",
+      "locationName": "WALTHAM"
     },
     "tz": "-05:00",
     "zip": "02453",
@@ -1349,8 +1370,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1359,8 +1380,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WATERTOWN"
+      "segmentId": "ma",
+      "locationName": "WATERTOWN"
     },
     "tz": "-05:00",
     "zip": "02472",
@@ -1372,8 +1393,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1382,8 +1403,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WAYLAND"
+      "segmentId": "ma",
+      "locationName": "WAYLAND"
     },
     "tz": "-05:00",
     "zip": "01778",
@@ -1395,8 +1416,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1405,8 +1426,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WEST BRIDGEWATER"
+      "segmentId": "ma",
+      "locationName": "WEST BRIDGEWATER"
     },
     "tz": "-05:00",
     "zip": "02379",
@@ -1418,7 +1439,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1427,8 +1448,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WEYMOUTH"
+      "segmentId": "ma",
+      "locationName": "WEYMOUTH"
     },
     "tz": "-05:00",
     "zip": "02191",
@@ -1440,8 +1461,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1450,8 +1471,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WORCESTER"
+      "segmentId": "ma",
+      "locationName": "WORCESTER"
     },
     "tz": "-05:00",
     "zip": "01608",
@@ -1463,8 +1484,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1473,8 +1494,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "BOURNE"
+      "segmentId": "ma",
+      "locationName": "BOURNE"
     },
     "tz": "-05:00",
     "zip": "02532",
@@ -1486,7 +1507,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1495,8 +1516,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "GEORGETOWN"
+      "segmentId": "ma",
+      "locationName": "GEORGETOWN"
     },
     "tz": "-05:00",
     "zip": "01833",
@@ -1508,7 +1529,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1517,8 +1538,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "HARWICHPORT"
+      "segmentId": "ma",
+      "locationName": "HARWICHPORT"
     },
     "tz": "-05:00",
     "zip": "02646",
@@ -1530,7 +1551,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1539,8 +1560,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "LAWRENCE"
+      "segmentId": "ma",
+      "locationName": "LAWRENCE"
     },
     "tz": "-05:00",
     "zip": "01841",
@@ -1552,8 +1573,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
@@ -1562,8 +1583,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "LEXINGTON"
+      "segmentId": "ma",
+      "locationName": "LEXINGTON"
     },
     "tz": "-05:00",
     "zip": "02420",
@@ -1575,7 +1596,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1584,8 +1605,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WESTFORD"
+      "segmentId": "ma",
+      "locationName": "WESTFORD"
     },
     "tz": "-05:00",
     "zip": "01886",
@@ -1597,7 +1618,7 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots"
+      "no-timeslots"
     ]
   },
   {
@@ -1606,8 +1627,8 @@
     "scraperClass": "cvs",
     "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
     "scraperParams": {
-        "segmentId": "ma",
-        "locationName": "WILBRAHAM"
+      "segmentId": "ma",
+      "locationName": "WILBRAHAM"
     },
     "tz": "-05:00",
     "zip": "01095",
@@ -1619,8 +1640,8 @@
     "siteInstructions": "Check-in 15min prior",
     "accessibility": "",
     "caveats": [
-        "no-timeslots",
-        "nonspecific-location"
+      "no-timeslots",
+      "nonspecific-location"
     ]
   },
   {
