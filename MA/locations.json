@@ -3492,5 +3492,138 @@
     "caveats": [
       "no-timeslots"
     ]
+  },
+  {
+    "uuid": "e7cae9fd-3f0c-40bc-911f-4d21c58b79c5",
+    "name": "CVS Wollaston",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "WOLLASTON"
+    },
+    "tz": "-05:00",
+    "zip": "02170",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "42 Beale Street Wollaston, MA 02170",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "cf8aa5ff-23a2-4b28-896e-f7ec87e35f94",
+    "name": "CVS Westport",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "WESTPORT"
+    },
+    "tz": "-05:00",
+    "zip": "02790",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "599 State Rd. Westport, MA 02790",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "11874324-59c1-4593-9fbc-a2381f656271",
+    "name": "CVS Southbridge",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "SOUTHBRIDGE"
+    },
+    "tz": "-05:00",
+    "zip": "01550",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "399 Main Street Southbridge, MA 01550",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "656e0b64-4dba-4782-bc82-fdccd745d0d3",
+    "name": "CVS Mattapan",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "MATTAPAN"
+    },
+    "tz": "-05:00",
+    "zip": "02126",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1575 Blue Hill Ave Mattapan, MA 02126",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "90174dc2-1a76-40cb-9317-bda034576049",
+    "name": "CVS Lunenburg",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "LUNENBURG"
+    },
+    "tz": "-05:00",
+    "zip": "01462",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "454 Electric Ave. Lunenburg, MA 01462",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "183d39cf-c0bf-498f-89f1-d2eb97cbd0e0",
+    "name": "CVS Fitchburg",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "FITCHBURG"
+    },
+    "tz": "-05:00",
+    "zip": "01420",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "57 Rollstone Rd, Park Hill Plaza Fitchburg, MA 01420",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
   }
 ]
