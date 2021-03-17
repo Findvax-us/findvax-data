@@ -6,7 +6,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/gillette-stadium/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02035",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -28,7 +28,7 @@
       "curativeSiteId": "24182"
     },
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01129",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -47,7 +47,7 @@
     "scraperClass": "amherst",
     "scraperUrl": "https://www.amherstcovid19.org/vaccine",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01002",
     "state": "MA",
     "serves": "Eligible residents in Amherst, Belchertown, Granby, Hadley, Hatfield, Pelham, South Hadley, Ware",
@@ -66,7 +66,7 @@
       "locationId": "2804-102",
       "contextId": "2804"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01915",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -83,7 +83,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/fenway-park/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02215",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -103,7 +103,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/natick-natick-mall/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01760",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -123,7 +123,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/reggie-lewis-state-track-athletic-ctr/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02120",
     "state": "MA",
     "serves": "Eligible populations in Boston",
@@ -145,7 +145,7 @@
       "curativeSiteId": "24181"
     },
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01923",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -165,7 +165,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/web-dubois-regional-middle-school/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01230",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -182,7 +182,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/marshfield-fairgrounds/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02050",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -199,7 +199,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/st-elizabeth-of-hungary-parish/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01247",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -216,7 +216,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/orleans-department-of-public-works/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02653",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -233,7 +233,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/saint-vincent-hospital-vaccine-collaborative-worcester-state-university-wellness-center/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01602",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -250,7 +250,7 @@
     "scraperUrl": "https://vaxfinder.mass.gov/locations/greenfield-senior-center/",
     "scraperParams": {},
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01301",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -270,7 +270,7 @@
       "schedulerLinkId": "217734",
       "businessTimeZone": "America/New_York"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02476",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -289,7 +289,7 @@
       "curativeSiteId": "25336"
     },
     "notificationThreshold": 2,
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02747",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -308,7 +308,7 @@
     "scraperClass": "prepmod",
     "scraperUrl": "https://vaxfinder.mass.gov/locations/east-falmouth-falmouth-fairgrounds/",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02536",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -324,7 +324,7 @@
     "scraperClass": "prepmod",
     "scraperUrl": "https://vaxfinder.mass.gov/locations/bristol-community-college/",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02720",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -340,7 +340,7 @@
     "scraperClass": "prepmod",
     "scraperUrl": "https://vaxfinder.mass.gov/locations/melody-tent-parking-lot/",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02601",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -356,7 +356,7 @@
     "scraperClass": "prepmod",
     "scraperUrl": "https://vaxfinder.mass.gov/locations/berkshire-community-college-field-house/",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01201",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -372,7 +372,7 @@
     "scraperClass": "prepmod",
     "scraperUrl": "https://vaxfinder.mass.gov/locations/randolph-intergenerational-center-ricc/",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02368",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -388,7 +388,7 @@
     "scraperClass": "prepmod",
     "scraperUrl": "https://vaxfinder.mass.gov/locations/rutland-rutland-free-public-library/",
     "scraperParams": {},
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01543",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -406,7 +406,7 @@
     "scraperParams": {
       "cookie": "SiteName=THOfNE%20Mercy%20Medical%20Center"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01104",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -428,7 +428,7 @@
       "segmentId": "ma",
       "locationName": "AGAWAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01001",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -451,7 +451,7 @@
       "segmentId": "ma",
       "locationName": "BOSTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02118",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -474,7 +474,7 @@
       "segmentId": "ma",
       "locationName": "BRAINTREE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02184",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -497,7 +497,7 @@
       "segmentId": "ma",
       "locationName": "BROCKTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02302",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -520,7 +520,7 @@
       "segmentId": "ma",
       "locationName": "CAMBRIDGE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02138",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -543,7 +543,7 @@
       "segmentId": "ma",
       "locationName": "CHELSEA"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02150",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -566,7 +566,7 @@
       "segmentId": "ma",
       "locationName": "DEDHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02026",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -589,7 +589,7 @@
       "segmentId": "ma",
       "locationName": "EAST BOSTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02128",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -612,7 +612,7 @@
       "segmentId": "ma",
       "locationName": "EAST FALMOUTH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02536",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -634,7 +634,7 @@
       "segmentId": "ma",
       "locationName": "FALL RIVER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02720",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -657,7 +657,7 @@
       "segmentId": "ma",
       "locationName": "GREENFIELD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01301",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -679,7 +679,7 @@
       "segmentId": "ma",
       "locationName": "HANOVER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02339",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -702,7 +702,7 @@
       "segmentId": "ma",
       "locationName": "HAVERHILL"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01832",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -725,7 +725,7 @@
       "segmentId": "ma",
       "locationName": "HOLBROOK"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02343",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -748,7 +748,7 @@
       "segmentId": "ma",
       "locationName": "HOLYOKE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01040",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -771,7 +771,7 @@
       "segmentId": "ma",
       "locationName": "HUDSON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01749",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -793,7 +793,7 @@
       "segmentId": "ma",
       "locationName": "HYANNIS"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02601",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -816,7 +816,7 @@
       "segmentId": "ma",
       "locationName": "HYDE PARK"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02136",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -838,7 +838,7 @@
       "segmentId": "ma",
       "locationName": "IPSWICH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01938",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -860,7 +860,7 @@
       "segmentId": "ma",
       "locationName": "LOWELL"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01850",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -883,7 +883,7 @@
       "segmentId": "ma",
       "locationName": "LYNN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01905",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -906,7 +906,7 @@
       "segmentId": "ma",
       "locationName": "MALDEN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02148",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -929,7 +929,7 @@
       "segmentId": "ma",
       "locationName": "MAYNARD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01754",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -951,7 +951,7 @@
       "segmentId": "ma",
       "locationName": "MEDFIELD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02052",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -973,7 +973,7 @@
       "segmentId": "ma",
       "locationName": "MEDFORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02155",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -996,7 +996,7 @@
       "segmentId": "ma",
       "locationName": "METHUEN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01844",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1019,7 +1019,7 @@
       "segmentId": "ma",
       "locationName": "MILFORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01757",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1042,7 +1042,7 @@
       "segmentId": "ma",
       "locationName": "NEW BEDFORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02746",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1065,7 +1065,7 @@
       "segmentId": "ma",
       "locationName": "NEWTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02461",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1088,7 +1088,7 @@
       "segmentId": "ma",
       "locationName": "NORTH EASTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02356",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1111,7 +1111,7 @@
       "segmentId": "ma",
       "locationName": "NORTH GRAFTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01536",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1133,7 +1133,7 @@
       "segmentId": "ma",
       "locationName": "PALMER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01069",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1155,7 +1155,7 @@
       "segmentId": "ma",
       "locationName": "PEABODY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01960",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1178,7 +1178,7 @@
       "segmentId": "ma",
       "locationName": "RANDOLPH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02368",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1200,7 +1200,7 @@
       "segmentId": "ma",
       "locationName": "REVERE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02151",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1223,7 +1223,7 @@
       "segmentId": "ma",
       "locationName": "SALEM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01970",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1246,7 +1246,7 @@
       "segmentId": "ma",
       "locationName": "SEEKONK"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02771",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1269,7 +1269,7 @@
       "segmentId": "ma",
       "locationName": "SOUTH YARMOUTH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02664",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1292,7 +1292,7 @@
       "segmentId": "ma",
       "locationName": "SPRINGFIELD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01119",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1315,7 +1315,7 @@
       "segmentId": "ma",
       "locationName": "STURBRIDGE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01566",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1337,7 +1337,7 @@
       "segmentId": "ma",
       "locationName": "TAUNTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02780",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1360,7 +1360,7 @@
       "segmentId": "ma",
       "locationName": "WALTHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02453",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1383,7 +1383,7 @@
       "segmentId": "ma",
       "locationName": "WATERTOWN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02472",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1406,7 +1406,7 @@
       "segmentId": "ma",
       "locationName": "WAYLAND"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01778",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1429,7 +1429,7 @@
       "segmentId": "ma",
       "locationName": "WEST BRIDGEWATER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02379",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1451,7 +1451,7 @@
       "segmentId": "ma",
       "locationName": "WEYMOUTH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02191",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1474,7 +1474,7 @@
       "segmentId": "ma",
       "locationName": "WORCESTER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01608",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1497,7 +1497,7 @@
       "segmentId": "ma",
       "locationName": "BOURNE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02532",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1519,7 +1519,7 @@
       "segmentId": "ma",
       "locationName": "GEORGETOWN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01833",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1541,7 +1541,7 @@
       "segmentId": "ma",
       "locationName": "HARWICHPORT"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02646",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1563,7 +1563,7 @@
       "segmentId": "ma",
       "locationName": "LAWRENCE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01841",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1586,7 +1586,7 @@
       "segmentId": "ma",
       "locationName": "LEXINGTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02420",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1608,7 +1608,7 @@
       "segmentId": "ma",
       "locationName": "WESTFORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01886",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1630,7 +1630,7 @@
       "segmentId": "ma",
       "locationName": "WILBRAHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01095",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1653,7 +1653,7 @@
       "segmentId": "ma",
       "locationName": "WRENTHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02093",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1675,7 +1675,7 @@
       "segmentId": "ma",
       "locationName": "WOBURN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01801",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1698,7 +1698,7 @@
       "segmentId": "ma",
       "locationName": "WINTHROP"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02152",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1720,7 +1720,7 @@
       "segmentId": "ma",
       "locationName": "WINCHESTER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01890",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1742,7 +1742,7 @@
       "segmentId": "ma",
       "locationName": "WINCHENDON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01475",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1764,7 +1764,7 @@
       "segmentId": "ma",
       "locationName": "WILMINGTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01887",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1787,7 +1787,7 @@
       "segmentId": "ma",
       "locationName": "WESTWOOD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02090",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1810,7 +1810,7 @@
       "segmentId": "ma",
       "locationName": "WESTBOROUGH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01581",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1833,7 +1833,7 @@
       "segmentId": "ma",
       "locationName": "WEST SPRINGFIELD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01089",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1856,7 +1856,7 @@
       "segmentId": "ma",
       "locationName": "WEST NEWTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02465",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1878,7 +1878,7 @@
       "segmentId": "ma",
       "locationName": "WELLESLEY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02482",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1901,7 +1901,7 @@
       "segmentId": "ma",
       "locationName": "WAREHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02571",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1924,7 +1924,7 @@
       "segmentId": "ma",
       "locationName": "SWANSEA"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02777",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1947,7 +1947,7 @@
       "segmentId": "ma",
       "locationName": "STOUGHTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02072",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1970,7 +1970,7 @@
       "segmentId": "ma",
       "locationName": "STONEHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02180",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -1993,7 +1993,7 @@
       "segmentId": "ma",
       "locationName": "SOUTHWICK"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01077",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2015,7 +2015,7 @@
       "segmentId": "ma",
       "locationName": "SOUTH WEYMOUTH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02190",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2038,7 +2038,7 @@
       "segmentId": "ma",
       "locationName": "SOUTH HAMILTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01982",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2060,7 +2060,7 @@
       "segmentId": "ma",
       "locationName": "SOUTH EASTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02375",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2083,7 +2083,7 @@
       "segmentId": "ma",
       "locationName": "SOMERVILLE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02143",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2106,7 +2106,7 @@
       "segmentId": "ma",
       "locationName": "SHARON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02067",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2128,7 +2128,7 @@
       "segmentId": "ma",
       "locationName": "SAUGUS"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01906",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2151,7 +2151,7 @@
       "segmentId": "ma",
       "locationName": "SANDWICH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02563",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2174,7 +2174,7 @@
       "segmentId": "ma",
       "locationName": "SALISBURY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01952",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2196,7 +2196,7 @@
       "segmentId": "ma",
       "locationName": "ROWLEY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01969",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2218,7 +2218,7 @@
       "segmentId": "ma",
       "locationName": "ROSLINDALE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02131",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2241,7 +2241,7 @@
       "segmentId": "ma",
       "locationName": "READING"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01867",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2263,7 +2263,7 @@
       "segmentId": "ma",
       "locationName": "QUINCY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02169",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2286,7 +2286,7 @@
       "segmentId": "ma",
       "locationName": "PROVINCETOWN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02657",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2308,7 +2308,7 @@
       "segmentId": "ma",
       "locationName": "PLAINVILLE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02762",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2331,7 +2331,7 @@
       "segmentId": "ma",
       "locationName": "OXFORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01540",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2353,7 +2353,7 @@
       "segmentId": "ma",
       "locationName": "ORLEANS"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02653",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2376,7 +2376,7 @@
       "segmentId": "ma",
       "locationName": "NORWELL"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02061",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2398,7 +2398,7 @@
       "segmentId": "ma",
       "locationName": "NORTHAMPTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01060",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2421,7 +2421,7 @@
       "segmentId": "ma",
       "locationName": "NORTH DARTMOUTH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02747",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2443,7 +2443,7 @@
       "segmentId": "ma",
       "locationName": "NORTH ATTLEBOROUGH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02760",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2466,7 +2466,7 @@
       "segmentId": "ma",
       "locationName": "NORTH ANDOVER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01845",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2489,7 +2489,7 @@
       "segmentId": "ma",
       "locationName": "NEEDHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02494",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2512,7 +2512,7 @@
       "segmentId": "ma",
       "locationName": "MILLIS"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02054",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2534,7 +2534,7 @@
       "segmentId": "ma",
       "locationName": "MILLBURY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01527",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2557,7 +2557,7 @@
       "segmentId": "ma",
       "locationName": "MIDDLETON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01949",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2579,7 +2579,7 @@
       "segmentId": "ma",
       "locationName": "MIDDLEBOROUGH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02346",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2601,7 +2601,7 @@
       "segmentId": "ma",
       "locationName": "MASHPEE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02649",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2623,7 +2623,7 @@
       "segmentId": "ma",
       "locationName": "MARLBOROUGH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01752",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2646,7 +2646,7 @@
       "segmentId": "ma",
       "locationName": "MARBLEHEAD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01945",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2668,7 +2668,7 @@
       "segmentId": "ma",
       "locationName": "LONGMEADOW"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01106",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2691,7 +2691,7 @@
       "segmentId": "ma",
       "locationName": "LEOMINSTER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01453",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2714,7 +2714,7 @@
       "segmentId": "ma",
       "locationName": "LANESBOROUGH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01237",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2736,7 +2736,7 @@
       "segmentId": "ma",
       "locationName": "KINGSTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02364",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2759,7 +2759,7 @@
       "segmentId": "ma",
       "locationName": "HOPKINTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01748",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2781,7 +2781,7 @@
       "segmentId": "ma",
       "locationName": "HOLLISTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01746",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2803,7 +2803,7 @@
       "segmentId": "ma",
       "locationName": "HINGHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02043",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2826,7 +2826,7 @@
       "segmentId": "ma",
       "locationName": "HARWICH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02645",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2848,7 +2848,7 @@
       "segmentId": "ma",
       "locationName": "HANSON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02341",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2870,7 +2870,7 @@
       "segmentId": "ma",
       "locationName": "HADLEY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01035",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2892,7 +2892,7 @@
       "segmentId": "ma",
       "locationName": "GREAT BARRINGTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01230",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2914,7 +2914,7 @@
       "segmentId": "ma",
       "locationName": "GRANBY"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01033",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2936,7 +2936,7 @@
       "segmentId": "ma",
       "locationName": "GLOUCESTER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01930",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2959,7 +2959,7 @@
       "segmentId": "ma",
       "locationName": "FRAMINGHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01702",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -2982,7 +2982,7 @@
       "segmentId": "ma",
       "locationName": "FOXBOROUGH"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02035",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3005,7 +3005,7 @@
       "segmentId": "ma",
       "locationName": "EVERETT"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02149",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3027,7 +3027,7 @@
       "segmentId": "ma",
       "locationName": "EAST BRIDGEWATER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02333",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3049,7 +3049,7 @@
       "segmentId": "ma",
       "locationName": "DORCHESTER"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02124",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3072,7 +3072,7 @@
       "segmentId": "ma",
       "locationName": "DANVERS"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01923",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3095,7 +3095,7 @@
       "segmentId": "ma",
       "locationName": "CONCORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01742",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3117,7 +3117,7 @@
       "segmentId": "ma",
       "locationName": "COHASSET"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02025",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3139,7 +3139,7 @@
       "segmentId": "ma",
       "locationName": "CHICOPEE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01020",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3162,7 +3162,7 @@
       "segmentId": "ma",
       "locationName": "CHESTNUT HILL"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02467",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3185,7 +3185,7 @@
       "segmentId": "ma",
       "locationName": "CHATHAM"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02633",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3207,7 +3207,7 @@
       "segmentId": "ma",
       "locationName": "BURLINGTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01803",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3230,7 +3230,7 @@
       "segmentId": "ma",
       "locationName": "BROOKLINE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02446",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3253,7 +3253,7 @@
       "segmentId": "ma",
       "locationName": "BRIGHTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02135",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3276,7 +3276,7 @@
       "segmentId": "ma",
       "locationName": "BILLERICA"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01821",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3298,7 +3298,7 @@
       "segmentId": "ma",
       "locationName": "BELMONT"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02478",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3321,7 +3321,7 @@
       "segmentId": "ma",
       "locationName": "BELCHERTOWN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01007",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3343,7 +3343,7 @@
       "segmentId": "ma",
       "locationName": "BEDFORD"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01730",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3365,7 +3365,7 @@
       "segmentId": "ma",
       "locationName": "ATTLEBORO"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02703",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3388,7 +3388,7 @@
       "segmentId": "ma",
       "locationName": "ASHLAND"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01721",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3411,7 +3411,7 @@
       "segmentId": "ma",
       "locationName": "ARLINGTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02474",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3434,7 +3434,7 @@
       "segmentId": "ma",
       "locationName": "AMHERST"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01002",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3457,7 +3457,7 @@
       "segmentId": "ma",
       "locationName": "ALLSTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02134",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3480,7 +3480,7 @@
       "segmentId": "ma",
       "locationName": "ABINGTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02351",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3502,7 +3502,7 @@
       "segmentId": "ma",
       "locationName": "WOLLASTON"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02170",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3524,7 +3524,7 @@
       "segmentId": "ma",
       "locationName": "WESTPORT"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02790",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3546,7 +3546,7 @@
       "segmentId": "ma",
       "locationName": "SOUTHBRIDGE"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01550",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3568,7 +3568,7 @@
       "segmentId": "ma",
       "locationName": "MATTAPAN"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "02126",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3590,7 +3590,7 @@
       "segmentId": "ma",
       "locationName": "LUNENBURG"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01462",
     "state": "MA",
     "serves": "Eligible populations statewide",
@@ -3612,7 +3612,7 @@
       "segmentId": "ma",
       "locationName": "FITCHBURG"
     },
-    "tz": "-05:00",
+    "tz": "-04:00",
     "zip": "01420",
     "state": "MA",
     "serves": "Eligible populations statewide",
