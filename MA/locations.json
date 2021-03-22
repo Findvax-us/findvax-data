@@ -78,20 +78,20 @@
   },
   {
     "uuid": "c62ce219-a538-4d34-982c-0a8fddfb573f",
-    "name": "Fenway Park",
+    "name": "Hynes Convention Center",
     "scraperClass": "prepmod",
-    "scraperUrl": "https://vaxfinder.mass.gov/locations/fenway-park/",
+    "scraperUrl": "https://vaxfinder.mass.gov/locations/boston-hynes-convention-center/",
     "scraperParams": {},
     "notificationThreshold": 2,
     "tz": "-04:00",
     "zip": "02215",
     "state": "MA",
     "serves": "Eligible populations statewide",
-    "address": "4 Jersey St, Boston, MA 02215",
-    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=fenway&search_radius=All",
+    "address": "900 Boylston St Boston MA 02115",
+    "linkUrl": "https://www.maimmunizations.org/clinic/search?commit=Search&q%5Bvenue_search_name_or_venue_name_i_cont%5D=hynes&search_radius=All",
     "siteType": "indoor",
-    "siteInstructions": "Book an appointment in advance, online. When booking, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the CIC Health call center to cancel an appointment: 888-623-3830.",
-    "accessibility": "The entire path of travel from arrival/drop-off (Gate A on Jersey Street) to exit (Gate E on Lansdowne Street) is fully accessible via ramps and walkways. There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break.",
+    "siteInstructions": "Pre-register online; you will be notified when you are able to book an appointment. When booking, you will be asked for your first name, last name, date of birth, phone number, email (optional), race, ethnicity, insurance information (if applicable). Call the CIC Health call center to cancel an appointment: 888-623-3830.",
+    "accessibility": "There are wheelchairs available on-site for any guests that need assistance and staff available to assist with mobility issues. A language line and a visual language line are available on site. There are chairs throughout the queuing process to give guests a break.",
     "caveats": [
       "massvax-preregistration.html"
     ]
