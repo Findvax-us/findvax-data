@@ -1,0 +1,564 @@
+[
+  {
+    "uuid": "a3245be0-7c6f-4861-99a6-ba0eccea8390",
+    "name": "CVS Wyoming",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "WYOMING"
+    },
+    "tz": "-04:00",
+    "zip": "02898",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "1187 Main St., Po Box 58 Wyoming, RI 02898",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "f7b4b289-af10-4850-8c00-09efcb6a5668",
+    "name": "CVS Woonsocket",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "WOONSOCKET"
+    },
+    "tz": "-04:00",
+    "zip": "02895",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "450 Clinton St. Woonsocket, RI 02895",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "ebad6e04-ffe8-4af3-8ff1-2d5c1146373b",
+    "name": "CVS Westerly",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "WESTERLY"
+    },
+    "tz": "-04:00",
+    "zip": "02891",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "151 Franklin St. Westerly, RI 02891",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "b4cc973c-09e0-4caf-9e46-3ceecb7fba62",
+    "name": "CVS West Warwick",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "WEST WARWICK"
+    },
+    "tz": "-04:00",
+    "zip": "02893",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "1734 Main Street West Warwick, RI 02893",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "758ac43d-66f5-44a0-8236-7f8bce2ff919",
+    "name": "CVS Warwick",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "WARWICK"
+    },
+    "tz": "-04:00",
+    "zip": "02886",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "198 Buttonwoods Ave, Warwick, RI 02886",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "fcf906a1-80eb-4b57-beaa-e393b8e45980",
+    "name": "CVS Warren",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "WARREN"
+    },
+    "tz": "-04:00",
+    "zip": "02885",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "615 Metacom Avenue, Route 136 Warren, RI 02885",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "9baed619-69e5-4ade-80f6-43ce53360aaf",
+    "name": "CVS Tiverton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "TIVERTON"
+    },
+    "tz": "-04:00",
+    "zip": "02878",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "500 Main Road Tiverton, RI 02878",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "e8744a41-1ad2-4166-b57a-8fddecea858a",
+    "name": "CVS Smithfield",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "SMITHFIELD"
+    },
+    "tz": "-04:00",
+    "zip": "02917",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "371 Putnam Pike Ste A-250 Smithfield, RI 02917",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "1aa2fe1d-9437-4fdc-9b15-380ef6a1ea3f",
+    "name": "CVS Rumford",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "RUMFORD"
+    },
+    "tz": "-04:00",
+    "zip": "02916",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "63 Newport Ave Rumford, RI 02916",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "98b66812-7027-425b-b94d-937411dc432a",
+    "name": "CVS Riverside",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "RIVERSIDE"
+    },
+    "tz": "-04:00",
+    "zip": "02915",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "444 Willett Avenue Riverside, RI 02915",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "3b627bf3-f75c-4e43-9bad-242bdd23f24e",
+    "name": "CVS Providence",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "PROVIDENCE"
+    },
+    "tz": "-04:00",
+    "zip": "02906",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "481 Angell Street Providence, RI 02906",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "d1b94104-076d-46c0-ba7d-03908b1ed912",
+    "name": "CVS Portsmouth",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "PORTSMOUTH"
+    },
+    "tz": "-04:00",
+    "zip": "02871",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "10 Turnpike Ave. Portsmouth, RI 02871",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "b07a75e9-a89a-4190-9cc4-dbdd612bcc84",
+    "name": "CVS Pawtucket",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "PAWTUCKET"
+    },
+    "tz": "-04:00",
+    "zip": "02861",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "835 Newport Ave. Pawtucket, RI 02861",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "be04dfb4-760c-4b75-a677-523a8416aa3c",
+    "name": "CVS Pascoag",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "PASCOAG"
+    },
+    "tz": "-04:00",
+    "zip": "02859",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "20 High Street, Bell Plaza Pascoag, RI 02859",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "50281104-858b-4726-9c3c-def9ab59e443",
+    "name": "CVS North Kingstown",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "NORTH KINGSTOWN"
+    },
+    "tz": "-04:00",
+    "zip": "02852",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "4255 Quaker Lane North Kingstown, RI 02852",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "f8c1f57d-b342-46c4-a826-f99d230f83a3",
+    "name": "CVS Newport",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "NEWPORT"
+    },
+    "tz": "-04:00",
+    "zip": "02840",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "181 Bellevue Avenue Newport, RI 02840",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "dd152bb1-5f3b-42aa-930a-f0170df4b3a9",
+    "name": "CVS Narragansett",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "NARRAGANSETT"
+    },
+    "tz": "-04:00",
+    "zip": "02882",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "1123 Boston Neck Rd. Narragansett, RI 02882",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "3fa1519a-e7d1-4a80-b0c6-a47b85e82bbc",
+    "name": "CVS Johnston",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "JOHNSTON"
+    },
+    "tz": "-04:00",
+    "zip": "02919",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "26 Putnam Pike Johnston, RI 02919",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "12a14714-cef1-4055-ae27-10872114aa24",
+    "name": "CVS Glocester",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "GLOCESTER"
+    },
+    "tz": "-04:00",
+    "zip": "02814",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "1068 Putnam Pike, Po Box H Glocester, RI 02814",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "5148b184-bae8-40f6-acae-a5fc10d6b9a7",
+    "name": "CVS East Providence",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "EAST PROVIDENCE"
+    },
+    "tz": "-04:00",
+    "zip": "02914",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "640 Warren Avenue East Providence, RI 02914",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "6a419842-df9d-472e-a690-78f29367a885",
+    "name": "CVS East Greenwich",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "EAST GREENWICH"
+    },
+    "tz": "-04:00",
+    "zip": "02818",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "507 Main Street, East Greenwich Commons East Greenwich, RI 02818",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "b5a5ba99-2a6c-482e-88ba-13b8aa49b330",
+    "name": "CVS Cumberland",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "CUMBERLAND"
+    },
+    "tz": "-04:00",
+    "zip": "02864",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "2125 Diamond Hill Road Cumberland, RI 02864",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "a45f9fdb-22ac-46e7-8b58-4b5f01b3aa7d",
+    "name": "CVS Cranston",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "CRANSTON"
+    },
+    "tz": "-04:00",
+    "zip": "02920",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "1195 Oaklawn Avenue Cranston, RI 02920",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "816b37e8-6412-43a8-9617-082572e3ecc5",
+    "name": "CVS Charlestown",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "CHARLESTOWN"
+    },
+    "tz": "-04:00",
+    "zip": "02813",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "3986 Old Post Rd. Charlestown, RI 02813",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "93b5c9f6-6a52-4e55-b1db-f89b48dd43f0",
+    "name": "CVS Bristol",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "BRISTOL"
+    },
+    "tz": "-04:00",
+    "zip": "02809",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "400 Metacom Avenue Bristol, RI 02809",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  }
+]

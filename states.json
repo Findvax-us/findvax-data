@@ -1,8 +1,20 @@
 [
   {
-    "state": "MA",
-    "full": "Massachusetts",
+    "short": "MA",
     "enabled": true,
-    "url": "https://www.mass.gov/covid-19-vaccine"
+    "url": "https://www.mass.gov/covid-19-vaccine",
+    "count": 165
+  },
+  {
+    "short": "NH",
+    "enabled": false,
+    "url": "https://www.nh.gov/covid19/resources-guidance/vaccination-planning.htm",
+    "count": 0
+  },
+  {
+    "short": "RI",
+    "enabled": true,
+    "url": "https://covid.ri.gov/vaccination",
+    "count": 25
   }
 ]

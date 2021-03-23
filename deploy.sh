@@ -5,6 +5,21 @@ if [ -z "$AWSENV_CF_DISTRIBUTION" ]; then
   exit 1
 fi
 
+
+for STATE in `cat states.json | jq -r '.[].short'`
+do
+  LOCATIONS="$STATE/locations.json"
+  if [[ -f $LOCATIONS ]];then
+    COUNT=`cat $LOCATIONS | jq '. | length'`
+  else
+    COUNT=0
+  fi
+
+  OUTPUT=`cat states.json | jq '(.[]|select(.short == $state)?) += {count: $newCount}' --argjson newCount "$COUNT" --arg state "$STATE"`
+  echo $OUTPUT > states.json
+done
+
+
 aws s3 sync ./ s3://findvax-data\
  --profile findvax\
  --delete\

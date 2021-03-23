@@ -5,19 +5,21 @@ const uuid = require('uuid'),
       cheerio = require('cheerio');
 
 //config: change as needed
-const filterExistingLocations = true,
-      existingLocationsFile = '../MA/locations.json',
+const filterExistingLocations = false,
+      existingLocationsFile = '../RI/locations.json',
+      inFile = 'cvs.json',
       outFile = 'cvs-locations.json',
-      state = 'MA',
-      stateFull = 'Massachusetts', // cvs store locator requires it i dunno
-      timezone = '-05:00'; 
+      state = 'RI',
+      stateSlug = 'Rhode-Island', // cvs store locator requires it i dunno, hyphens to replace spaces
+      timezone = '-04:00'; 
 
-const locatorURLBase = `https://www.cvs.com/store-locator/cvs-pharmacy-locations/${stateFull}/`;
+const locatorURLBase = `https://www.cvs.com/store-locator/cvs-pharmacy-locations/${stateSlug}/`,
+      jsonURL = `https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.${state.toLowerCase()}.json?vaccineinfo`;
 const template = {
   uuid: '',
   name: '',
   scraperClass: 'cvs',
-  scraperUrl: `https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.${state.toLowerCase()}.json?vaccineinfo`,
+  scraperUrl: jsonURL,
   scraperParams: {
       segmentId: state.toLowerCase(),
       locationName: ''
@@ -96,7 +98,7 @@ const getLocations = (location, next) => {
 }
 
 
-const list = JSON.parse(fs.readFileSync('cvs.json', 'utf8')),
+const list = JSON.parse(fs.readFileSync(inFile, 'utf8')),
       cvses = list.responsePayloadData.data[state];
 
 console.log(`cities: ${cvses.length}`);
