@@ -560,5 +560,71 @@
     "caveats": [
       "no-timeslots"
     ]
+  },
+  {
+    "uuid": "266beb97-daca-49d5-aa0a-f4eeddac23b4",
+    "name": "CVS North Smithfield",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "NORTH SMITHFIELD"
+    },
+    "tz": "-04:00",
+    "zip": "02896",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "120 Eddie Dowling Hwy. North Smithfield, RI 02896",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "322a6069-10be-4a02-aa03-61222d0b921b",
+    "name": "CVS North Providence",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "NORTH PROVIDENCE"
+    },
+    "tz": "-04:00",
+    "zip": "02904",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "1919 Mineral Spring Avenue North Providence, RI 02904",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "571dc981-c833-4384-b477-511a694506dd",
+    "name": "CVS Coventry",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ri.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ri",
+      "locationName": "COVENTRY"
+    },
+    "tz": "-04:00",
+    "zip": "02816",
+    "state": "RI",
+    "serves": "Eligible populations statewide",
+    "address": "763 Tiogue Avenue Coventry, RI 02816",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
   }
 ]

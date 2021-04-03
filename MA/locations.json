@@ -3625,5 +3625,319 @@
       "no-timeslots",
       "nonspecific-location"
     ]
+  },
+  {
+    "uuid": "0473a3a4-1edb-41ea-a384-1b589908ab63",
+    "name": "CVS Westfield",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "WESTFIELD"
+    },
+    "tz": "-04:00",
+    "zip": "01085",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "208 Elm St. Westfield, MA 01085",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "3375d34b-20d8-4f62-b27a-5cdc4f384be4",
+    "name": "CVS Webster",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "WEBSTER"
+    },
+    "tz": "-04:00",
+    "zip": "01570",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "112 E. Main St. Webster, MA 01570",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "d04b49f4-bfe9-45e8-a367-a33e9b9faab0",
+    "name": "CVS Plymouth",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "PLYMOUTH"
+    },
+    "tz": "-04:00",
+    "zip": "02360",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "330 Court St. Plymouth, MA 02360",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "5fc417a7-4a8a-48fd-9d13-24c0b74fe322",
+    "name": "CVS North Billerica",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "NORTH BILLERICA"
+    },
+    "tz": "-04:00",
+    "zip": "01862",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "210 Boston Rd. North Billerica, MA 01862",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "3f94360b-954b-4dd3-a4a7-6d544afa5951",
+    "name": "CVS Newburyport",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "NEWBURYPORT"
+    },
+    "tz": "-04:00",
+    "zip": "01950",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "75 Storey Ave. Newburyport, MA 01950",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "eb511b98-ce6b-434b-a49b-707370cd2c5e",
+    "name": "CVS Natick",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "NATICK"
+    },
+    "tz": "-04:00",
+    "zip": "01760",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "137 West Central Street Natick, MA 01760",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "bc41a046-0fa3-4f8e-9133-303824b9634a",
+    "name": "CVS Falmouth",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "FALMOUTH"
+    },
+    "tz": "-04:00",
+    "zip": "02540",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "105 Davis Straits Falmouth, MA 02540",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "4902f0a1-47dd-478e-ac95-b683c82305fd",
+    "name": "CVS Dracut",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "DRACUT"
+    },
+    "tz": "-04:00",
+    "zip": "01826",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "4 Broadway Road Dracut, MA 01826",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "6c283abf-7ab6-48d7-b5c6-3dff299aca16",
+    "name": "CVS Carver",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "CARVER"
+    },
+    "tz": "-04:00",
+    "zip": "02330",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "100d N. Main St. Carver, MA 02330",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "160a366a-1c84-47af-af56-c964e537749d",
+    "name": "CVS Canton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "CANTON"
+    },
+    "tz": "-04:00",
+    "zip": "02021",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "95 Washington Street Canton, MA 02021",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "6036dca4-789f-4934-b863-f5870310d0bb",
+    "name": "CVS Beverly",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "BEVERLY"
+    },
+    "tz": "-04:00",
+    "zip": "01915",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "434 Rantoul St. Beverly, MA 01915",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  },
+  {
+    "uuid": "6d9fdb3b-0bf5-425b-9f2c-b4395db507dc",
+    "name": "CVS Bellingham",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "BELLINGHAM"
+    },
+    "tz": "-04:00",
+    "zip": "02019",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "370 Pulaski Blvd Bellingham, MA 02019",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "ccf7a965-17f7-48c9-99de-117e8ce6f8f6",
+    "name": "CVS Athol",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "ATHOL"
+    },
+    "tz": "-04:00",
+    "zip": "01331",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "1653 Main St. Athol, MA 01331",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots"
+    ]
+  },
+  {
+    "uuid": "8a4712d6-0d39-4d57-b81b-0ca6b80dae07",
+    "name": "CVS Acton",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.ma.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "ma",
+      "locationName": "ACTON"
+    },
+    "tz": "-04:00",
+    "zip": "01720",
+    "state": "MA",
+    "serves": "Eligible populations statewide",
+    "address": "344 Great Road Acton, MA 01720",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
   }
 ]
