@@ -1,20 +1,279 @@
 [
   {
+    "short": "AL",
+    "enabled": true,
+    "url": "https://alcovidvaccine.gov",
+    "count": 67
+  },
+  {
+    "short": "AK",
+    "enabled": true,
+    "url": "http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/vaccine.aspx",
+    "count": 2
+  },
+  {
+    "short": "AZ",
+    "enabled": true,
+    "url": "https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-vaccine",
+    "count": 27
+  },
+  {
+    "short": "AR",
+    "enabled": true,
+    "url": "https://www.healthy.arkansas.gov/programs-services/topics/covid-19-vaccination-plan",
+    "count": 3
+  },
+  {
+    "short": "CA",
+    "enabled": true,
+    "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/COVID-19Vaccine.aspx",
+    "count": 342
+  },
+  {
+    "short": "CO",
+    "enabled": true,
+    "url": "https://covid19.colorado.gov/vaccine",
+    "count": 12
+  },
+  {
+    "short": "CT",
+    "enabled": true,
+    "url": "https://portal.ct.gov/Vaccine-Portal",
+    "count": 62
+  },
+  {
+    "short": "DE",
+    "enabled": true,
+    "url": "https://coronavirus.delaware.gov/vaccine",
+    "count": 5
+  },
+  {
+    "short": "DC",
+    "enabled": true,
+    "url": "https://coronavirus.dc.gov/vaccine",
+    "count": 1
+  },
+  {
+    "short": "FL",
+    "enabled": true,
+    "url": "https://floridahealthcovid19.gov/covid-19-vaccines-in-florida/",
+    "count": 139
+  },
+  {
+    "short": "GA",
+    "enabled": true,
+    "url": "https://dph.georgia.gov/covid-vaccine",
+    "count": 37
+  },
+  {
+    "short": "HI",
+    "enabled": true,
+    "url": "https://hawaiicovid19.com/vaccination-registration/",
+    "count": 0
+  },
+  {
+    "short": "IL",
+    "enabled": true,
+    "url": "http://www.dph.illinois.gov/covid19/vaccine-faq",
+    "count": 0
+  },
+  {
+    "short": "IA",
+    "enabled": true,
+    "url": "https://idph.iowa.gov/Emerging-Health-Issues/Novel-Coronavirus/Vaccine",
+    "count": 0
+  },
+  {
+    "short": "KS",
+    "enabled": true,
+    "url": "https://www.kansasvaccine.gov/157/Availability",
+    "count": 0
+  },
+  {
+    "short": "KY",
+    "enabled": true,
+    "url": "https://govstatus.egov.com/ky-covid-vaccine",
+    "count": 0
+  },
+  {
+    "short": "LA",
+    "enabled": true,
+    "url": "https://ldh.la.gov/covidvaccine",
+    "count": 0
+  },
+  {
+    "short": "MD",
+    "enabled": true,
+    "url": "https://coronavirus.maryland.gov/pages/vaccine",
+    "count": 0
+  },
+  {
     "short": "MA",
     "enabled": true,
     "url": "https://www.mass.gov/covid-19-vaccine",
-    "count": 165
+    "count": 179
   },
   {
-    "short": "NH",
-    "enabled": false,
-    "url": "https://www.nh.gov/covid19/resources-guidance/vaccination-planning.htm",
+    "short": "MI",
+    "enabled": true,
+    "url": "https://www.michigan.gov/coronavirus/0,9753,7-406-98178_103214---,00.html",
+    "count": 0
+  },
+  {
+    "short": "MN",
+    "enabled": true,
+    "url": "https://www.health.state.mn.us/diseases/coronavirus/vaccine.html",
+    "count": 0
+  },
+  {
+    "short": "MS",
+    "enabled": true,
+    "url": "https://msdh.ms.gov/msdhsite/_static/14,0,420,976.html",
+    "count": 0
+  },
+  {
+    "short": "MO",
+    "enabled": true,
+    "url": "https://covidvaccine.mo.gov/",
+    "count": 0
+  },
+  {
+    "short": "MT",
+    "enabled": true,
+    "url": "https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt/covid19vaccineavailability",
+    "count": 0
+  },
+  {
+    "short": "NV",
+    "enabled": true,
+    "url": "https://www.immunizenevada.org/nv-covid-fighter",
+    "count": 0
+  },
+  {
+    "short": "NJ",
+    "enabled": true,
+    "url": "https://covid19.nj.gov/pages/vaccine",
+    "count": 0
+  },
+  {
+    "short": "NM",
+    "enabled": true,
+    "url": "https://cv.nmhealth.org/covid-vaccine/",
+    "count": 0
+  },
+  {
+    "short": "NY",
+    "enabled": true,
+    "url": "https://covid19vaccine.health.ny.gov/",
+    "count": 0
+  },
+  {
+    "short": "NC",
+    "enabled": true,
+    "url": "https://covid19.ncdhhs.gov/vaccines",
+    "count": 0
+  },
+  {
+    "short": "ND",
+    "enabled": true,
+    "url": "https://www.health.nd.gov/covid-19-vaccine-information",
+    "count": 0
+  },
+  {
+    "short": "OH",
+    "enabled": true,
+    "url": "https://coronavirus.ohio.gov/wps/portal/gov/covid-19/covid-19-vaccination-program",
+    "count": 0
+  },
+  {
+    "short": "OK",
+    "enabled": true,
+    "url": "https://oklahoma.gov/covid19/vaccine-information.html",
+    "count": 0
+  },
+  {
+    "short": "OR",
+    "enabled": true,
+    "url": "https://covidvaccine.oregon.gov/",
+    "count": 0
+  },
+  {
+    "short": "PA",
+    "enabled": true,
+    "url": "https://www.health.pa.gov/topics/disease/coronavirus/Pages/Vaccine.aspx",
     "count": 0
   },
   {
     "short": "RI",
     "enabled": true,
     "url": "https://covid.ri.gov/vaccination",
-    "count": 25
+    "count": 28
+  },
+
+
+  {
+    "short": "SC",
+    "enabled": true,
+    "url": "https://scdhec.gov/covid19/covid-19-vaccination",
+    "count": 0
+  },
+  {
+    "short": "TN",
+    "enabled": true,
+    "url": "https://www.tn.gov/health/cedep/ncov/covid-19-vaccine-information.html",
+    "count": 0
+  },
+  {
+    "short": "TX",
+    "enabled": true,
+    "url": "https://www.dshs.state.tx.us/coronavirus/immunize/vaccine.aspx",
+    "count": 0
+  },
+  {
+    "short": "UT",
+    "enabled": true,
+    "url": "https://coronavirus.utah.gov/vaccine",
+    "count": 0
+  },
+  {
+    "short": "VT",
+    "enabled": true,
+    "url": "https://www.healthvermont.gov/covid-19/vaccine",
+    "count": 0
+  },
+  {
+    "short": "VA",
+    "enabled": true,
+    "url": "https://www.vdh.virginia.gov/covid-19-vaccine",
+    "count": 0
+  },
+  {
+    "short": "WA",
+    "enabled": true,
+    "url": "https://www.doh.wa.gov/Emergencies/COVID19/Vaccine",
+    "count": 0
+  },
+  {
+    "short": "WV",
+    "enabled": true,
+    "url": "https://dhhr.wv.gov/COVID-19/Pages/Vaccine.aspx",
+    "count": 0
+  },
+  {
+    "short": "WI",
+    "enabled": true,
+    "url": "https://www.dhs.wisconsin.gov/covid-19/vaccine.htm",
+    "count": 0
+  },
+
+
+
+
+
+  {
+    "short": "NH",
+    "enabled": false,
+    "url": "https://www.nh.gov/covid19/resources-guidance/vaccination-planning.htm",
+    "count": 0
   }
 ]

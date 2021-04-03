@@ -1,0 +1,25 @@
+[
+  {
+    "uuid": "964756bd-3078-495b-b61d-f125e3053b63",
+    "name": "CVS Washington DC",
+    "scraperClass": "cvs",
+    "scraperUrl": "https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.dc.json?vaccineinfo",
+    "scraperParams": {
+      "segmentId": "dc",
+      "locationName": "WASHINGTON"
+    },
+    "tz": "-04:00",
+    "zip": "20036",
+    "state": "DC",
+    "serves": "Eligible populations citywide",
+    "address": "1001 16th St Nw Washington, DC 20036",
+    "linkUrl": "https://www.cvs.com/immunizations/covid-19-vaccine",
+    "siteType": "indoor",
+    "siteInstructions": "Check-in 15min prior",
+    "accessibility": "",
+    "caveats": [
+      "no-timeslots",
+      "nonspecific-location"
+    ]
+  }
+]
