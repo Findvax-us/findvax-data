@@ -6,15 +6,16 @@ const uuid = require('uuid'),
 
 //config: change as needed
 const filterExistingLocations = false,
-      existingLocationsFile = '../RI/locations.json',
+      existingLocationsFile = '../AZ/locations.json',
       inFile = 'cvs.json',
       outFile = 'cvs-locations.json',
-      state = 'RI',
-      stateSlug = 'Rhode-Island', // cvs store locator requires it i dunno, hyphens to replace spaces
-      timezone = '-04:00'; 
+      state = 'FL',
+      stateSlug = 'Florida', // cvs store locator requires it i dunno, hyphens to replace spaces
+      timezone = '-4:00'; 
 
 const locatorURLBase = `https://www.cvs.com/store-locator/cvs-pharmacy-locations/${stateSlug}/`,
-      jsonURL = `https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.${state.toLowerCase()}.json?vaccineinfo`;
+      jsonURL = `https://www.cvs.com/immunizations/covid-19-vaccine.vaccine-status.${state.toLowerCase()}.json?vaccineinfo`,
+      linkURL = `https://www.cvs.com/vaccine/intake/store/cvd-schedule?icid=coronavirus-lp-vaccine-${state.toLowerCase()}-statetool`;
 const template = {
   uuid: '',
   name: '',
@@ -29,7 +30,7 @@ const template = {
   state: state,
   serves: 'Eligible populations statewide',
   address: '',
-  linkUrl: 'https://www.cvs.com/immunizations/covid-19-vaccine',
+  linkUrl: linkURL,
   siteType: 'indoor',
   siteInstructions: 'Check-in 15min prior',
   accessibility: '',
